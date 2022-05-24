@@ -7,6 +7,7 @@
 ## Built With
 - Reactjs
 - CSS
+- Big.js library
 
 ## Live Demo
 [localhost:3000](https://localhost:3000)
