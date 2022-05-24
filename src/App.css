@@ -26,7 +26,9 @@ button {
   border: none;
   cursor: pointer;
 }
-button:hover,button:focus{
+
+button:hover,
+button:focus {
   background-color: rgba(0, 0, 0, 0.03);
 }
 

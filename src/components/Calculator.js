@@ -15,6 +15,7 @@ class Calculator extends Component {
   }
 
 handleClick = (buttonName)=>this.setState(({obj})=>({obj:calculate(obj,buttonName)}));
+
   render() {
     return (
       <div className="calculator-main-cont">
