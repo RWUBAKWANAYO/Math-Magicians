@@ -24,7 +24,7 @@ To get a local copy open and running follow these simple example steps.
 ### Usage
 To use this project run `npm start` command in terminal of your editor project will start automatically after whille
 ## Authors
-:bust_in_silhouette: **Author**
+:bust_in_silhouette: **RWUBAKWANAYO**
 - GitHub: [@githubrwubakwanayo](https://github.com/RWUBAKWANAYO)
 - LinkedIn: [Rwubakwanayo](https://www.linkedin.com/in/rwubakwanayo-olivier)
 ## :handshake: Contributing
