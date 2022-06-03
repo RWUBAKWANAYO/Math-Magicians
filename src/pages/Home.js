@@ -4,22 +4,17 @@ const Home = () => (
   <div className="home-cont">
     <h2>Welcome to our page</h2>
     <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent
-      lobortis, nibh et ullamcorper venenatis, turpis est commodo leo, eget
-      aliquam nisi leo sit amet arcu. Fusce at feugiat ex. Phasellus ullamcorper
-      libero in porta interdum. Maecenas sapien dui, finibus ac quam eget,
-      placerat vestibulum augue. Sed et feugiat ante. Ut ac fringilla est. Sed
-      at nunc purus. Duis non commodo diam. Proin feugiat lacus sed risus
-      sollicitudin, a lacinia erat suscipit. Pellentesque vel ultrices velit.
+      Calculators have not only greatly enhanced our ability to perform the
+      regular computations that are involved in everyday life, but provided
+      humans with the ability to understand mathematics on a greater scale than
+      ever imagined.
     </p>
     <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent
-      lobortis, nibh et ullamcorper venenatis, turpis est commodo leo, eget
-      aliquam nisi leo sit amet arcu. Fusce at feugiat ex. Phasellus ullamcorper
-      libero in porta interdum. Maecenas sapien dui, finibus ac quam eget,
-      placerat vestibulum augue. Sed et feugiat ante. Ut ac fringilla est. Sed
-      at nunc purus. Duis non commodo diam. Proin feugiat lacus sed risus
-      sollicitudin, a lacinia erat suscipit. Pellentesque vel ultrices velit.
+      This technology allows students solve complicated problems quickly and in
+      an efficient manner. Additionally, it can reduce the problem to simpler
+      tasks and allows the student to devote more time in understanding the
+      problem. Secondly, they are saved from monotonous calculations and the
+      same boring mundane procedure.
     </p>
   </div>
 );
