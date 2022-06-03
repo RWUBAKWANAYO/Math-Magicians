@@ -9,6 +9,7 @@
 - CSS
 - Big.js library
 - React Icons library
+- Jest
 
 ## Live Demo
 [localhost:3000](https://localhost:3000)
@@ -24,10 +25,17 @@ To get a local copy open and running follow these simple example steps.
 *N.B: Make sure that you have node installed in your commputer, if not [Download Node](https://nodejs.org/en/)*
 ### Usage
 To use this project run `npm start` command in terminal of your editor project will start automatically after whille
+## Run Test
+Launches the test runner in the interactive watch mode by run command `npm test` which will start jest test cases in your terminal
 ## Authors
 :bust_in_silhouette: **RWUBAKWANAYO**
 - GitHub: [@githubrwubakwanayo](https://github.com/RWUBAKWANAYO)
 - LinkedIn: [Rwubakwanayo](https://www.linkedin.com/in/rwubakwanayo-olivier)
+- 
+:bust_in_silhouette: **Danny**
+
+- GitHub: [@githubbenshidanny11](https://github.com/benshidanny11)
+- LinkedIn: [daniel-urimubenshi](https://www.linkedin.com/in/daniel-urimubenshi-077162185/)
 ## :handshake: Contributing
 Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](../../issues/).
