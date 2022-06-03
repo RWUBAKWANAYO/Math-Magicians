@@ -8,6 +8,7 @@
 - Reactjs
 - CSS
 - Big.js library
+- React Icons library
 
 ## Live Demo
 [localhost:3000](https://localhost:3000)
