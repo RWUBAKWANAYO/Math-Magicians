@@ -2,12 +2,13 @@
 
 "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to Make simple calculations,Read a random math-related quote.
 
-![Screenshot (78)](https://user-images.githubusercontent.com/68381641/169891900-78c132db-9ec6-4ec4-a08e-1e1635373634.png)
+![Calculator](https://user-images.githubusercontent.com/68381641/171793001-03dba8a9-3531-4b29-a279-50fa928441bf.png)
 
 ## Built With
 - Reactjs
 - CSS
 - Big.js library
+- React Icons library
 
 ## Live Demo
 [localhost:3000](https://localhost:3000)
