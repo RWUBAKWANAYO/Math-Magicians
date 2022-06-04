@@ -12,7 +12,9 @@
 - Jest
 
 ## Live Demo
-[localhost:3000](https://localhost:3000)
+Heroku: [https://reacttodoapp10.herokuapp.com/](https://reacttodoapp10.herokuapp.com/)
+
+Netlify: [https://react-todo-app10.netlify.app/](https://react-todo-app10.netlify.app/)
 
 ## Getting Started
 To get a local copy open and running follow these simple example steps.
