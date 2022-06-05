@@ -6,7 +6,7 @@ const Buttons = (props) => {
   return (
     <div className="calculator-wrapper">
       <div className="calculator-numbers-cont">
-        <div className="calculator-numbers">
+        <div className="calculator-numbers" id="special-character">
           <button type="button" onClick={() => handleClick('AC')}>AC</button>
           <button type="button" onClick={() => handleClick('+/-')}>+/-</button>
           <button type="button" onClick={() => handleClick('%')}>%</button>
@@ -27,7 +27,7 @@ const Buttons = (props) => {
           <button type="button" onClick={() => handleClick('3')}>3</button>
         </div>
         <div className="calculator-numbers">
-          <button type="button" onClick={() => handleClick('0')}>0</button>
+          <button type="button" id="zero-button" onClick={() => handleClick('0')}>0</button>
           <button type="button" onClick={() => handleClick('.')}>.</button>
         </div>
       </div>
