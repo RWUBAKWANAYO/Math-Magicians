@@ -12,9 +12,13 @@
 - Jest
 
 ## Live Demo
-Heroku: [https://reacttodoapp10.herokuapp.com/](https://reacttodoapp10.herokuapp.com/)
+Heroku:
 
-Netlify: [https://react-todo-app10.netlify.app/](https://react-todo-app10.netlify.app/)
+[https://math-magician-v1.herokuapp.com/](https://math-magician-v1.herokuapp.com/)
+
+Netlify:
+
+[https://math-magician-v1.netlify.app/](https://math-magician-v1.netlify.app/)
 
 ## Getting Started
 To get a local copy open and running follow these simple example steps.
